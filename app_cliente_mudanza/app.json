@@ -16,6 +16,7 @@
       "bundleIdentifier": "com.mudanzascrm.cliente"
     },
     "android": {
+      "softwareKeyboardLayoutMode": "resize",
       "adaptiveIcon": {
         "backgroundColor": "#007AFF",
         "foregroundImage": "./assets/android-icon-foreground.png",
