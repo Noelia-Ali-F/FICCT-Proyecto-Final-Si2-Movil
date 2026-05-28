@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "592933866985",
+    "project_id": "appmudanzas-fa9d3",
+    "storage_bucket": "appmudanzas-fa9d3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592933866985:android:04f8a863a21610b6bc0f78",
+        "android_client_info": {
+          "package_name": "com.rister.appConductor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz5Aj1rGiCmstji8dotwR6feNDrNyEiKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
